@@ -2,7 +2,8 @@ import { useState } from 'react';
 
 function Home(){
     return (
-        <h1>Te AmooooooooooH</h1>
+        <title>Teste</title>
+        <h1>Home</h1>
     )
 }
 
